@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[11],{E0La:function(t,e,n){"use strict";n.r(e);var a=n("q1tI"),l=n.n(a);e.default=function(){return l.a.createElement("div",null,"hello from latest products",l.a.createElement("p",null,"and the url is /products/latest"))}}}]);
+//# sourceMappingURL=component---src-pages-products-latest-js-308f7e138a674ed03dd5.js.map
